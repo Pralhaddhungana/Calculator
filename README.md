@@ -1,6 +1,6 @@
 # Calculator
 
-###Instructions
+### Instructions
 
 Install Visual Studio 
 
